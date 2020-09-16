@@ -1,7 +1,6 @@
 # Martin Maier, B.A.
 
-![2](https://user-images.githubusercontent.com/63603922/93268807-25df9000-f7ae-11ea-9ceb-d638bb5b14d8.jpg)
-<img src="https://user-images.githubusercontent.com/63603922/93268807-25df9000-f7ae-11ea-9ceb-d638bb5b14d8.jpg" alt="2" width="200"/>
+![2] <img src="https://user-images.githubusercontent.com/63603922/93268807-25df9000-f7ae-11ea-9ceb-d638bb5b14d8.jpg" alt="2" width="200"/>
 [@Twitter](https://twitter.com/maetmaier) 
 [@mail](maier_martin@live.at)
 
