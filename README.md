@@ -8,7 +8,7 @@
 ##### Currently Student of Empirical Economics at the University of Graz.
 ##### Location: Graz, Austria
 
-=========================================================================================================
+===================================================================================
 
 I am especially interested in macro and finance, also behavioral finance. Also, I like to work with data and apply econometric analysis. I prefer -R- for data analysis, but I try to get used to Python too. 
 
