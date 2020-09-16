@@ -1,7 +1,13 @@
 # Martin Maier, B.A.
 |  |  |
 | -------- | -------- |
-| <img src="https://user-images.githubusercontent.com/63603922/93268807-25df9000-f7ae-11ea-9ceb-d638bb5b14d8.jpg" alt="2" width="200"/> | Currently: Student of Empirical Economics at the University of Graz  &nbsp; Location: Graz, Austria  &nbsp; [Twitter](https://twitter.com/maetmaier)  &nbsp; [Mail](maier_martin@live.at) |
+| <img src="https://user-images.githubusercontent.com/63603922/93268807-25df9000-f7ae-11ea-9ceb-d638bb5b14d8.jpg" alt="2" width="200"/> | Currently: Student of Empirical Economics at the University of Graz
+
+Location: Graz, Austria
+
+[Twitter](https://twitter.com/maetmaier)
+
+[Mail](maier_martin@live.at) |
 
 
 
