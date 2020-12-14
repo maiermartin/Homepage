@@ -6,6 +6,8 @@
 - prefered R user, trying to get on with python
 
 Some Data on Austrian Banks
+
+
 ![Ausleihungsgrad](https://user-images.githubusercontent.com/63603922/102141163-af136b00-3e60-11eb-8a01-c0c314c3a9b4.png)
 
 
