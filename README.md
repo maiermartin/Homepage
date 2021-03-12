@@ -12,15 +12,15 @@
 
 ### Productivity
 
-[Austrian Manufacturing](https://github.com/maiermartin/maiermartin/files/6129516/Emp_econ_paper.pdf)
+[European TFP (2000-2015)](https://github.com/maiermartin/maiermartin/files/6129907/EUropean.TFP.pdf)
 
-[Europe 2000-2015](https://github.com/maiermartin/maiermartin/files/6129510/QMER_Report.pdf)
+[AUT Manuf Firm TFP (2015/2016)](https://github.com/maiermartin/maiermartin/files/6129908/AUT.Manuf.TFP.pdf)
+
 
 ### Risk Management
+[PD Schätzung (German)](https://github.com/maiermartin/maiermartin/files/6129918/PD.Schatzung.pdf)
 
-[PD Schätzung (German)](https://github.com/maiermartin/maiermartin/files/6129542/PD.Aufgabe.pdf)
-
-[LGD Schätzung (German)](https://github.com/maiermartin/maiermartin/files/6129546/LGD.Projekt.Beschreibung_Maier_Messner_Sarcletti.pdf)
+[LGD Schätzung (German)](https://github.com/maiermartin/maiermartin/files/6129919/LGD.Schatzung.pdf)
 
 ========================================================================================
 
