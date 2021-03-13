@@ -27,13 +27,14 @@
 ## Some Data on Austrian Banks 2016-2019 (Financial Reports to the OeNB)
 
 ### Structure
-![Ausleihung](https://user-images.githubusercontent.com/63603922/103804652-c35b1a00-5052-11eb-8c4e-fc0b1ca4cd2c.png)
+![Ausleihung](https://user-images.githubusercontent.com/63603922/111038407-03f75b00-8429-11eb-9e92-c9fc5df4ebe8.png)
 
 ### Profitability
-![Return](https://user-images.githubusercontent.com/63603922/103804649-c2c28380-5052-11eb-828e-723c313189ae.png)
-![CIR](https://user-images.githubusercontent.com/63603922/103804654-c35b1a00-5052-11eb-824d-04e4f954f7a0.png)
+![Return](https://user-images.githubusercontent.com/63603922/111038411-05c11e80-8429-11eb-9aba-9eb014b35d6a.png)
+![CIR](https://user-images.githubusercontent.com/63603922/111038408-05288800-8429-11eb-967d-3c91d870e1d6.png)
 
 ### Stability
 ![Risiko](https://user-images.githubusercontent.com/63603922/103804650-c2c28380-5052-11eb-89f8-83f7487fe919.png)
-![Liquidität](https://user-images.githubusercontent.com/63603922/103804646-c1915680-5052-11eb-9e7e-bdf793598198.png)
-![Leverage](https://user-images.githubusercontent.com/63603922/103804659-c3f3b080-5052-11eb-9364-1a196cdc3441.png)
+![Liquidität](https://user-images.githubusercontent.com/63603922/111038410-05c11e80-8429-11eb-90f6-a634436d42f2.png)
+![Leverage](https://user-images.githubusercontent.com/63603922/111038409-05288800-8429-11eb-8541-631d09336bf9.png)
+
