@@ -34,7 +34,6 @@
 ![CIR](https://user-images.githubusercontent.com/63603922/111038408-05288800-8429-11eb-967d-3c91d870e1d6.png)
 
 ### Stability
-![Risiko](https://user-images.githubusercontent.com/63603922/103804650-c2c28380-5052-11eb-89f8-83f7487fe919.png)
 ![Liquidität](https://user-images.githubusercontent.com/63603922/111038410-05c11e80-8429-11eb-90f6-a634436d42f2.png)
 ![Leverage](https://user-images.githubusercontent.com/63603922/111038409-05288800-8429-11eb-8541-631d09336bf9.png)
 
