@@ -2,8 +2,7 @@
 # HEY! 
 
 - I am interested in macro & monetary economics, banking and also behavioral finance
-- I like to let data speak
-- prefered R user, trying to get on with python and SQL, also tasted julia 
+- prefered R user, trying to get on with python and SQL, also tested julia 
 - currently working as RA in real estate economics
 
 ========================================================================================
